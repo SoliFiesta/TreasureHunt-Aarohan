@@ -77,7 +77,7 @@ document.getElementById('puzzle').onclick = function () {
 
 
     document.write("<div id='rules'>")
-    document.write("<h3> Congrats Team - Utkarsh</h3>")
+    document.write("<h3> Congrats Team -Aarohan</h3>")
     document.write("<h3> Here is your next clue:</h3>")
     document.write("<ul>")
     document.write("<li>Get your  Next clue  with VP-India,Developmement </li>")
